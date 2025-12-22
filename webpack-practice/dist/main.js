@@ -26,7 +26,7 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpa
   \**********************/
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
-eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _greeting_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./greeting.js */ \"./src/greeting.js\");\n\n\nconsole.log(_greeting_js__WEBPACK_IMPORTED_MODULE_0__.greeting);\n\n//# sourceURL=webpack://webpack-practice/./src/index.js?\n}");
+eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _greeting_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./greeting.js */ \"./src/greeting.js\");\n\n\nconsole.log(_greeting_js__WEBPACK_IMPORTED_MODULE_0__.greeting);\n\nconsole.log(\"wuuuiiii\")\n\n//# sourceURL=webpack://webpack-practice/./src/index.js?\n}");
 
 /***/ }
 
